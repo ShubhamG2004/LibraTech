@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092076536178",
+    "project_id": "librarymanagement-3021c",
+    "storage_bucket": "librarymanagement-3021c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092076536178:android:729f4e57222bee92115deb",
+        "android_client_info": {
+          "package_name": "com.example.libratech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBogJSPYl3QpGQNACmWSKP51K7OPVeLpJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
